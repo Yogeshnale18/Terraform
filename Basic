@@ -1,0 +1,4 @@
+resource "local-file" "basic"{
+filename="/home/ubuntu/terraform/Yogesh.txt"
+content= "My name is Yogesh"
+}
